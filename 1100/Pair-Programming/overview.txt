@@ -1,0 +1,16 @@
+					Pair Programming	
+
+p1 worked mins = n
+p2 worked mins = m
+
+lines already written len = k
+
+Actions -
+	1. Add a new line to the end
+	2. Change one of its lines
+
+p1 sequence of actions = (arr) a
+p2 sequence of actions = (arr) b
+
+if a[i] = 0 then he applies Actions.1
+if a[i] > 0 then he applies Actions.2 then he changes the line with the number a[i]
